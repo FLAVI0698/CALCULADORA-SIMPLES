@@ -1,0 +1,39 @@
+    <head>
+        <title>Site</title>
+        <link href="HOMENAGEM1-1.css" rel="styleSheet">
+    </head>
+    <body>
+        <header >
+            <h1> The Witcher 3 </h1>
+            
+        </header>
+        <div class="div1" >
+            <div>
+                <img class="img1"src="image.jpg">
+            </div>
+                <div class="div2">
+                    <p>The Witcher 3: Wild Hunt (em polonês: Wiedźmin 3: Dziki Gon) é um jogo eletrônico de RPG de ação em mundo aberto desenvolvido pela CD Projekt RED e lançado no dia 19 de maio de 2015[2] para as plataformas Microsoft Windows, PlayStation 4, Xbox One e em outubro de 2019[3] para o Nintendo Switch, sendo o terceiro título da série de jogos The Witcher. Ele sucede The Witcher (2007) e The Witcher 2: Assassins of Kings (2011), que foram baseados na série de livros de fantasia Wiedźmin, do escritor polonês Andrzej Sapkowski.
+                    </p>
+                    <p>Ambientado em um gigantesco cenário medieval que dá liberdade total ao jogador, o game, que possui uma jogabilidade não linear e é jogado através de uma perspectiva em terceira pessoa, tem o lendário bruxo Geralt de Rívia como seu protagonista, o qual inicia uma longa jornada pelos Reinos do Norte. Enquanto a ordem planetária enfrenta uma grande mudança, com o misterioso e macabro exército de cavaleiros vermelhos conhecido como a "Caçada Selvagem" deixando somente sangue e ruína por onde passa, o jogador terá de enfrentar diversos perigos, usando espadas e magia num mundo em crise, à medida que interage com outros personagens e completa missões para o progresso da história, podendo viajar a pé, a barco, ou montado em Carpeado, o cavalo inseparável de Geralt.
+                    </p>
+                    <p>The Witcher 3: Wild Hunt foi amplamente aclamado pela crítica, com alguns considerando-no como um dos melhores jogos de todos os tempos.[4][5] Sua consagração veio na noite de 3 de dezembro de 2015, quando foi galardoado com o grande prêmio de Jogo do Ano na cerimônia de condecoração The Game Awards, considerada a mais importante e prestigiada do ramo dos videogames.[6] The Witcher 3: Wild Hunt é um dos jogos mais premiados da história, com 257 prêmios de múltiplas publicações e eventos recebidos apenas na categoria de melhor jogo.[7][8] Também foi um sucesso financeiro, tendo vendido cerca de 28 milhões de cópias ao redor do mundo, tornando-se um dos jogos mais vendidos de todos os tempos.[9] Dois pacotes de expansão, intitulados Hearts of Stone e Blood and Wine, ainda foram lançados para o jogo, com ambos recebendo igualmente aclamação geral da crítica especializada.
+                    </p>
+                    <p><h3><b>Jogabilidade</b></h3></p>
+                </div>
+                        <div>
+                            <img  class="img2" src="img.jpg">
+                        </div>
+                <div class="div">
+                    <p>Apesar de ser similar aos outros jogos da série The Witcher, Wild Hunt melhorou sua jogabilidade em diversos aspectos. O estilo de combate, que foi completamente renovado, decorre num sistema usual do gênero RPG de ação combinado com o uso de magias, e entre as novas mecânicas introduzidas no game, estão os "sentidos de bruxo", a técnica de combate a cavalo e em alto mar, a possibilidade de mergulhar, e a inclusão de uma besta como arma alternativa. Além disso, Geralt agora pode saltar, escalar e pular sobre objetos, algo que não era possível nos títulos antecessores. As mecânicas de escalada foram descritas por seus desenvolvedores como "não tão iguais" às de Assassin's Creed, mas mais "similar ao que temos em Uncharted".
+                        <br> A criação de itens e poções permanece como nos jogos anteriores, apesar de com uma leve modificação em relação a The Witcher 2, e os cinco sinais de bruxo(igni,quen,yrden,axii,aard) retornam ligeiramente modificados, tendo cada um deles uma forma diferente de ser utilizada.</p>
+                    <p>The Witcher 3: Wild Hunt tem um sistema de dia-e-noite dinâmico, inteligência artificial ultra-realista e uma atmosfera extremamente viva. O ciclo dia-e-noite influencia alguns monstros e os seus poderes, similar à forma como um lobisomem ganha os seus poderes apenas quando está numa noite de lua cheia</p>
+                    <p>A barba do personagem Geralt também irá crescer à medida que ele viaja pelo mundo. De acordo com os desenvolvedores, a barba cresce em "estados diferentes", no entanto, esta característica só se tornará disponível depois que o jogador baixar o pacote adicional gratuito de nome "Beard and Hairstyle" (Barbas e cortes de cabelo).</p>
+                    <p>Uma outra grande novidade acrescentada no jogo é o minigame de cartas colecionáveis Gwent(jogo de cartas da serie the Witcher), que substitui os jogos dos dados dos dois títulos anteriores.</p>
+                    
+                </div>
+        </div>
+        <footer>
+
+        </footer>
+    </body>
+</html><html>
